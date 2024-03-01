@@ -349,21 +349,8 @@
 
 ////////////////////////////////////////////////////////////////
 
-// https://api.curateit.com/api/icon?isIcon=true
-// Method : POST
-// Payload : FormData - file (binary)
-// Preview :-
-/* 
-{
-  "status": 200,
-  "message": "https://curateit-prod.s3.amazonaws.com/common/users/199/icons/1636498355197.jpeg"
-} 
-*/
-
-////////////////////////////////////////////////////////////////
-
 // https://api.curateit.com/api/gems/111825
-// Method : POST
+// Method : PUT
 // Payload :-
 /*
 {
